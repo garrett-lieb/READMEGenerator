@@ -21,6 +21,8 @@ In the command line the user can run "node Develop/index" to start the program. 
 
 ## Credits
 
+starter code - https://github.com/coding-boot-camp/potential-enigma
+
 1/10/2024 - EdX Bootcamp TA Alex Yu assisted in troubleshooting generateMarkdown.js file.
 
 
