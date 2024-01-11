@@ -59,7 +59,7 @@ renderLicenseSection();
 function generateMarkdown(data) {
   return `
   # ${data.title}
-  ${renderLicenseBadge(data.license)}
+  <img src=${renderLicenseBadge(data.license)}>
 
   ## Table of Contents
   - [Description](#description)
