@@ -19,6 +19,7 @@ In the command line the user can run "node Develop/index" to start the program. 
 
 1/10/2024 - EdX BOotcamp TA Alex Yu assisted in troubleshooting generateMarkdown.js file.
 
+
 ## Liscence
 
 MIT Liscence
