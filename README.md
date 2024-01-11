@@ -4,7 +4,10 @@
 
 This is a README generator that uses the command line to save a developer time so they can focus less on producing a ReadMe file and focus on coding.
 
-// images // 
+<img src="assets/images/1.png" width="100%" height="100%">
+<img src="assets/images/2.png" width="100%" height="100%">
+
+VIDEO OF APP:
 
 https://drive.google.com/file/d/1dik8MHaLJsWwE1YQXtAAObZAz1qevomJ/view
 
