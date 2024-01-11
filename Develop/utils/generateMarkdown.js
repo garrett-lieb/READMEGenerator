@@ -55,19 +55,20 @@ renderLicenseLink();
 renderLicenseSection();
 
 // TODO: Create a function to generate markdown for README
+  // make links jump to corresponding sections
 function generateMarkdown(data) {
   return `
   # ${data.title}
+
   ## Table of Contents
-  * [Description](#description)
-  * [Installation](#installation)
-  * [Usage](#usage)
-  * [Contribution](#contribution)
-  * [Test](#test)
-  * [License](#license)
-  * [Questions](#questions)
-  * [GitHub](#github)
-  * [Email](#email)
+  - [Description](#description)
+  - [Installation](#installation)
+  - [Usage](#usage)
+  - [Contribution](#contribution)
+  - [Test](#test)
+  - [License](#license)
+  - [Questions](#questions)
+
   
   ## Description
   ${data.description}

@@ -2,13 +2,22 @@
 
 ## Description
 
+This is a README generator that uses the command line to save a developer time so they can focus less on producing a ReadMe file and focus on coding.
+
+// images // 
+// video link to google drive of fucntion application //
+
 ## Installation
+
+N/A
 
 ## Usage
 
+In the command line the user can run "node Develop/index" to start the program. The user provides information that will be used to popuate a properly formated ReadMe file that can be used for their own repository. This application uses Node Package Module "Inquirer@8.2.4" in order to get information from the user. 
+
 ## Credits
 
-1/10/2024 - TA alex yu assisted in troubleshooting generateMarkdown.js file
+1/10/2024 - EdX BOotcamp TA Alex Yu assisted in troubleshooting generateMarkdown.js file.
 
 ## Liscence
 
