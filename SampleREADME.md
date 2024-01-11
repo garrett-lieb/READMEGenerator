@@ -1,6 +1,6 @@
 
   # readme generator
-  https://img.shields.io/badge/License-MIT-yellow.png
+  https://img.shields.io/badge/License-MIT-yellow.svg
 
   ## Table of Contents
   - [Description](#description)
